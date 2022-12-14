@@ -4,8 +4,9 @@
 
 Created Simple Image Upload Website in Django Using Django ModelForm. 
 
-   
-![1](https://user-images.githubusercontent.com/84769341/205976226-c547a81e-20a3-4797-8adc-5d2765b74244.png)
+![16](https://user-images.githubusercontent.com/84769341/207621344-5880054c-9316-4a6f-a615-1c3f4ae1e7d9.png)
+
+
 
 
 ## Requirements
